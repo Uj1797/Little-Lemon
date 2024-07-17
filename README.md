@@ -1,31 +1,12 @@
-Little Lemon Restaurant App
-
-A React-based food ordering and management application for Little Lemon restaurant.
-
+This React-based restaurant app allows users to browse menus, place orders, and manage their dining experience. Built using only React, CSS, and JavaScript, this app provides a seamless and intuitive user interface.
 Features
-
-User registration and login
-Home screen with search and filter functionality for menu items
-Profile page for users to manage their preferences
-SQLite storage for restaurant’s menu items
-AsyncStorage for storing user preferences
+Menu: Browse through a comprehensive menu, complete with descriptions, prices, and images.
+Ordering: Book orders for pickup or delivery, with options for special requests and modifications.
+Account Management: Create and manage user accounts for easy ordering and tracking of orders.
+Order Tracking: View the status of your orders, from preparation to pickup or delivery.
+Restaurant Information: Access restaurant details, including location, hours of operation, and contact information.
 Technical Details
-
-Built using React Native Expo
-React Navigation (Native Stack) for screen routes
-SQLite and AsyncStorage for data storage
-Created using Create React App
-Built for production and optimized for best performance
-Tools and Resources
-
-Figma for wireframing and high-fidelity mockups
-React Native Docs (StyleSheet) for styling and layout guidance
-Getting Started
-
-Clone the repository and install dependencies using npm or yarn. Run npm start or yarn start to launch the app.
-
-Contributing
-
-Contributions are welcome! Please create an issue or pull request if you’d like to contribute to the Little Lemon Restaurant App.
-
-Note: The README does not include sensitive information such as API keys or database credentials. It provides a high-level overview of the app’s features, technical details, and tools used, making it a useful starting point for developers who want to understand the app’s architecture and contribute to its development.
+Frontend: Built using React 17.x, with a focus on performance and scalability.
+CSS: Utilizes a custom-built CSS framework for a consistent and responsive design.
+JavaScript: Leverages modern JavaScript features and best practices for a robust and maintainable codebase.
+State Management: Uses React’s built-in state management system for efficient and predictable updates.
